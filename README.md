@@ -9,7 +9,7 @@
 ```
 git add -A
 git commit -m "your name"
-git push origin master
+git push origin master git_link
 ```
 5. Then create your pull request.
 6. Star my [repository](https://github.com/Dhroov7/HacktoberFest2019).
