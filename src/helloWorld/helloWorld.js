@@ -3,3 +3,5 @@
  */
 
 console.log('Hello World!!')
+//or in browser
+alert('Hello World!!')
